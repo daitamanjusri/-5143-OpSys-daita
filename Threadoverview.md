@@ -1,7 +1,7 @@
-##Name:Manjusri Daita
-##Course:5143 Operating Systems
-##Date :08  April 2016
-##Mustang ID:M20227907
+Name:Manjusri Daita
+Course:5143 Operating Systems
+Date :08  April 2016
+Mustang ID:M20227907
 
 ## Question 1
 
